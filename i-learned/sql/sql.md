@@ -1,14 +1,18 @@
+---
+description: SQL 개념을 간단하게 훑으며 메모할만한 부분을 적습니다.
+---
+
 # 📔 SQL 첫걸음
 
-SQL 개념을 간단하게 훑으며 메모할만한 부분을 적습니다.
+![&#xBE60;&#xB974;&#xAC8C; &#xAC1C;&#xB150; &#xD6D1;&#xAE30; &#xB531; &#xC88B;&#xC740; SQL &#xCCAB;&#xAC78;&#xC74C;!](../../.gitbook/assets/sql-.jpg)
 
-젤 참고할만한건 역시 내부처리 순서
+젤 참고할만한건 역시 내부처리 순서다.
 
 > 내부처리 순서
 >
 > FROM, JOIN구-&gt; WHERE 구 -&gt; GROUP BY 구 -&gt; HAVING 구 -&gt; SELECT 구 -&gt; DISTINCT구 -&gt; ORDER BY 구 -&gt; LIMIT / OFFSET 구
 
-자주 쓸만한 패턴
+자주 쓸만한 패턴도 메모메모.
 
 `SELECT name, COUNT(name), SUM(quantity) FROM sample1 GROUP BY name ORDER BY SUM(quantity) DESC;`
 
