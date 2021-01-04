@@ -4,9 +4,6 @@
 
 ## I LEARNED
 
-* [Programing Language](i-learned/programing-language/README.md)
-  * [Ruby](i-learned/programing-language/ruby/README.md)
-    * [📔 퍼펙트 루비](i-learned/programing-language/ruby/undefined.md)
 * [Ruby On Rails](i-learned/ruby-on-rails/README.md)
   * [Rails 환경 구성](i-learned/ruby-on-rails/rails.md)
   * [Perfect ruby on rails](i-learned/ruby-on-rails/perfect-ruby-on-rails/README.md)
@@ -26,6 +23,17 @@
     * [컨트롤러 개발 - 요청 정보 추출](i-learned/ruby-on-rails/perfect-ruby-on-rails/undefined-8.md)
     * [컨트롤러 개발 - 응답](i-learned/ruby-on-rails/perfect-ruby-on-rails/untitled.md)
     * [컨트롤러 개발 - 상태 관리](i-learned/ruby-on-rails/perfect-ruby-on-rails/undefined-6.md)
+    * [라우팅 - RESTful](i-learned/ruby-on-rails/perfect-ruby-on-rails/restful.md)
+    * [라우팅 - RESTful 인터페이스의 사용자 정의화](i-learned/ruby-on-rails/perfect-ruby-on-rails/restful-1.md)
+    * [라우팅 - RESTful 하지 않은 라우트 정의](i-learned/ruby-on-rails/perfect-ruby-on-rails/restful-2.md)
+    * [테스트](i-learned/ruby-on-rails/perfect-ruby-on-rails/undefined-9.md)
+    * [테스트 - 준비](i-learned/ruby-on-rails/perfect-ruby-on-rails/undefined-11.md)
+    * [테스트 - Unit 테스트](i-learned/ruby-on-rails/perfect-ruby-on-rails/unit.md)
+    * [테스트 - Functional 테스트](i-learned/ruby-on-rails/perfect-ruby-on-rails/functional.md)
+    * [테스트 - Integration 테스트](i-learned/ruby-on-rails/perfect-ruby-on-rails/integration.md)
+* [Programing Language](i-learned/programing-language/README.md)
+  * [Ruby](i-learned/programing-language/ruby/README.md)
+    * [📔 퍼펙트 루비](i-learned/programing-language/ruby/undefined.md)
 * [SQL](i-learned/sql/README.md)
   * [📔 SQL 첫걸음](i-learned/sql/sql.md)
 
@@ -34,7 +42,7 @@
 * [2021](daily-review/2021/README.md)
   * [Jan](daily-review/2021/jan/README.md)
     * [2020-01-01\(Fri\)](daily-review/2021/jan/2020-01-01-fri.md)
-    * [Untitled](daily-review/2021/jan/untitled.md)
+    * [2020-01-04\(Mon\)](daily-review/2021/jan/untitled.md)
 * [2020](daily-review/2020/README.md)
   * [Dec](daily-review/2020/dec/README.md)
     * [2020-12-30\(Thu\)](daily-review/2020/dec/2020-12-30-thu.md)
