@@ -57,8 +57,9 @@
 
 * [2021](daily-review/2021/README.md)
   * [Jan](daily-review/2021/jan/README.md)
-    * [2020-01-04\(Mon\)](daily-review/2021/jan/untitled.md)
-    * [2020-01-01\(Fri\)](daily-review/2021/jan/2020-01-01-fri.md)
+    * [2021-01-05\(Tue\)](daily-review/2021/jan/2021-01-05-tue.md)
+    * [2021-01-04\(Mon\)](daily-review/2021/jan/untitled.md)
+    * [2021-01-01\(Fri\)](daily-review/2021/jan/2020-01-01-fri.md)
 * [2020](daily-review/2020/README.md)
   * [Dec](daily-review/2020/dec/README.md)
     * [2020-12-30\(Thu\)](daily-review/2020/dec/2020-12-30-thu.md)
