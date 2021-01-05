@@ -31,6 +31,8 @@
     * [테스트 - Unit 테스트](i-learned/ruby-on-rails/perfect-ruby-on-rails/unit.md)
     * [테스트 - Functional 테스트](i-learned/ruby-on-rails/perfect-ruby-on-rails/functional.md)
     * [테스트 - Integration 테스트](i-learned/ruby-on-rails/perfect-ruby-on-rails/integration.md)
+    * [클라이언트 개발 - Sprockets vs Webpacker](i-learned/ruby-on-rails/perfect-ruby-on-rails/sprockets-vs-webpacker.md)
+    * [클라이언트 개발 - Sprockets](i-learned/ruby-on-rails/perfect-ruby-on-rails/sprockets.md)
 * [Programing Language](i-learned/programing-language/README.md)
   * [Ruby](i-learned/programing-language/ruby/README.md)
     * [📔 퍼펙트 루비](i-learned/programing-language/ruby/undefined.md)
@@ -41,8 +43,8 @@
 
 * [2021](daily-review/2021/README.md)
   * [Jan](daily-review/2021/jan/README.md)
-    * [2020-01-01\(Fri\)](daily-review/2021/jan/2020-01-01-fri.md)
     * [2020-01-04\(Mon\)](daily-review/2021/jan/untitled.md)
+    * [2020-01-01\(Fri\)](daily-review/2021/jan/2020-01-01-fri.md)
 * [2020](daily-review/2020/README.md)
   * [Dec](daily-review/2020/dec/README.md)
     * [2020-12-30\(Thu\)](daily-review/2020/dec/2020-12-30-thu.md)
