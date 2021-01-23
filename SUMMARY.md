@@ -6,6 +6,7 @@
 
 * [Ruby On Rails](i-learned/ruby-on-rails/README.md)
   * [Rails 환경 구성](i-learned/ruby-on-rails/rails.md)
+  * [ActionCable](i-learned/ruby-on-rails/actioncable.md)
   * [Perfect ruby on rails](i-learned/ruby-on-rails/perfect-ruby-on-rails/README.md)
     * [MVC 패턴인 Rails](i-learned/ruby-on-rails/perfect-ruby-on-rails/mvc-rails.md)
     * [Ruby on Rails 기본 - 컨트롤러](i-learned/ruby-on-rails/perfect-ruby-on-rails/ruby-on-rails.md)
@@ -62,6 +63,10 @@
 
 * [2021](daily-review/2021/README.md)
   * [Jan](daily-review/2021/jan/README.md)
+    * [2021-01-22\(Fri\)](daily-review/2021/jan/2021-01-22-fri.md)
+    * [2021-01-20\(Wed\)](daily-review/2021/jan/2021-01-20-wed.md)
+    * [2021-01-19\(Tue\)](daily-review/2021/jan/2021-01-19-tue.md)
+    * [2021-01-18\(Mon\)](daily-review/2021/jan/2021-01-18-mon.md)
     * [2021-01-12\(Tue\)](daily-review/2021/jan/2021-01-12-tue.md)
     * [2020-01-11\(Mon\)](daily-review/2021/jan/2020-01-11-mon.md)
     * [2021-01-08\(Fri\)](daily-review/2021/jan/2021-01-08-fri.md)
