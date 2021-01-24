@@ -63,6 +63,7 @@
 
 * [2021](daily-review/2021/README.md)
   * [Jan](daily-review/2021/jan/README.md)
+    * [2021-01-23\(Sat\)](daily-review/2021/jan/2021-01-23-sat.md)
     * [2021-01-22\(Fri\)](daily-review/2021/jan/2021-01-22-fri.md)
     * [2021-01-20\(Wed\)](daily-review/2021/jan/2021-01-20-wed.md)
     * [2021-01-19\(Tue\)](daily-review/2021/jan/2021-01-19-tue.md)
