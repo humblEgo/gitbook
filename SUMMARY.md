@@ -63,6 +63,11 @@
 
 * [2021](daily-review/2021/README.md)
   * [Jan](daily-review/2021/jan/README.md)
+    * [2021-01-29\(Fri\)](daily-review/2021/jan/2021-01-29-fri.md)
+    * [2021-01-28\(Thu\)](daily-review/2021/jan/2021-01-28-thu.md)
+    * [2021-01-27\(Wed\)](daily-review/2021/jan/2021-01-27-wed.md)
+    * [2021-01-26\(Tue\)](daily-review/2021/jan/2021-01-26-tue.md)
+    * [2021-01-25\(Mon\)](daily-review/2021/jan/2021-01-25-mon.md)
     * [2021-01-23\(Sat\)](daily-review/2021/jan/2021-01-23-sat.md)
     * [2021-01-22\(Fri\)](daily-review/2021/jan/2021-01-22-fri.md)
     * [2021-01-20\(Wed\)](daily-review/2021/jan/2021-01-20-wed.md)
