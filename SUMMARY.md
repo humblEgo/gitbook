@@ -62,6 +62,8 @@
 ## DAILY REVIEW
 
 * [2021](daily-review/2021/README.md)
+  * [Feb](daily-review/2021/feb/README.md)
+    * [2021-02-01\(Mon\)](daily-review/2021/feb/2021-02-01-mon.md)
   * [Jan](daily-review/2021/jan/README.md)
     * [2021-01-29\(Fri\)](daily-review/2021/jan/2021-01-29-fri.md)
     * [2021-01-28\(Thu\)](daily-review/2021/jan/2021-01-28-thu.md)
