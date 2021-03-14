@@ -2,7 +2,7 @@
 description: Perferct ruby on rails 책을 통해 학습한 내용을 정리합니다.
 ---
 
-# Perfect ruby on rails
+# 📔 Perfect ruby on rails
 
 ![](../../../.gitbook/assets/image%20%281%29.png)
 

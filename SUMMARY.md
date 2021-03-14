@@ -7,7 +7,7 @@
 * [Ruby On Rails](i-learned/ruby-on-rails/README.md)
   * [Rails 환경 구성](i-learned/ruby-on-rails/rails.md)
   * [ActionCable](i-learned/ruby-on-rails/actioncable.md)
-  * [Perfect ruby on rails](i-learned/ruby-on-rails/perfect-ruby-on-rails/README.md)
+  * [📔 Perfect ruby on rails](i-learned/ruby-on-rails/perfect-ruby-on-rails/README.md)
     * [MVC 패턴인 Rails](i-learned/ruby-on-rails/perfect-ruby-on-rails/mvc-rails.md)
     * [Ruby on Rails 기본 - 컨트롤러](i-learned/ruby-on-rails/perfect-ruby-on-rails/ruby-on-rails.md)
     * [Ruby on Rails 기본 - 뷰](i-learned/ruby-on-rails/perfect-ruby-on-rails/ruby-on-rails-1.md)
@@ -56,7 +56,8 @@
       * [이벤트\(event\)](i-learned/programing-language/javascript/tcp-school/event.md)
   * [Ruby](i-learned/programing-language/ruby/README.md)
     * [📔 퍼펙트 루비](i-learned/programing-language/ruby/undefined.md)
-* [SQL](i-learned/sql/README.md)
+* [DB](i-learned/sql/README.md)
+  * [DB Transaction](i-learned/sql/db-transaction.md)
   * [📔 SQL 첫걸음](i-learned/sql/sql.md)
 
 ## DAILY REVIEW
