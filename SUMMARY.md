@@ -59,6 +59,8 @@
 * [DB](i-learned/sql/README.md)
   * [DB Transaction](i-learned/sql/db-transaction.md)
   * [📔 SQL 첫걸음](i-learned/sql/sql.md)
+* [General](i-learned/general/README.md)
+  * [TDD가 실패하는 이유 - by 이규원님](i-learned/general/tdd-by.md)
 
 ## DAILY REVIEW
 
