@@ -59,6 +59,8 @@
 * [DB](i-learned/sql/README.md)
   * [DB Transaction](i-learned/sql/db-transaction.md)
   * [📔 SQL 첫걸음](i-learned/sql/sql.md)
+* [Design Patterns](i-learned/design-patterns/README.md)
+  * [Singleton pattern](i-learned/design-patterns/singleton-pattern.md)
 * [General](i-learned/general/README.md)
   * [TDD가 실패하는 이유 - by 이규원님](i-learned/general/tdd-by.md)
   * [대규모 트래픽 애플리케이션 성능 튜닝 노하우 다 알려 드림\|라인개발실록](i-learned/general/or.md)
