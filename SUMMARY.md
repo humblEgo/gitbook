@@ -4,6 +4,9 @@
 
 ## I LEARNED
 
+* [General](i-learned/general/README.md)
+  * [TDD가 실패하는 이유 - by 이규원님](i-learned/general/tdd-by.md)
+  * [대규모 트래픽 애플리케이션 성능 튜닝 노하우 다 알려 드림\|라인개발실록](i-learned/general/or.md)
 * [Ruby On Rails](i-learned/ruby-on-rails/README.md)
   * [Rails 환경 구성](i-learned/ruby-on-rails/rails.md)
   * [ActionCable](i-learned/ruby-on-rails/actioncable.md)
@@ -34,6 +37,8 @@
     * [테스트 - Integration 테스트](i-learned/ruby-on-rails/perfect-ruby-on-rails/integration.md)
     * [클라이언트 개발 - Sprockets vs Webpacker](i-learned/ruby-on-rails/perfect-ruby-on-rails/sprockets-vs-webpacker.md)
     * [클라이언트 개발 - Sprockets](i-learned/ruby-on-rails/perfect-ruby-on-rails/sprockets.md)
+* [Node.js & Express](i-learned/node.js-and-express/README.md)
+  * [npx](i-learned/node.js-and-express/npx.md)
 * [Programing Language](i-learned/programing-language/README.md)
   * [Javascript](i-learned/programing-language/javascript/README.md)
     * [객체 상속](i-learned/programing-language/javascript/undefined.md)
@@ -61,9 +66,6 @@
   * [📔 SQL 첫걸음](i-learned/sql/sql.md)
 * [Design Patterns](i-learned/design-patterns/README.md)
   * [Singleton pattern](i-learned/design-patterns/singleton-pattern.md)
-* [General](i-learned/general/README.md)
-  * [TDD가 실패하는 이유 - by 이규원님](i-learned/general/tdd-by.md)
-  * [대규모 트래픽 애플리케이션 성능 튜닝 노하우 다 알려 드림\|라인개발실록](i-learned/general/or.md)
 
 ## DAILY REVIEW
 
