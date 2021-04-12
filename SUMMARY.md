@@ -70,6 +70,7 @@
   * [DB Transaction & Lock](i-learned/sql/db-transaction.md)
   * [📔 SQL 첫걸음](i-learned/sql/sql.md)
 * [Design Patterns](i-learned/design-patterns/README.md)
+  * [Flyweight pattern](i-learned/design-patterns/flyweight-pattern.md)
   * [Singleton pattern](i-learned/design-patterns/singleton-pattern.md)
 
 ## DAILY REVIEW
@@ -150,4 +151,5 @@
     * [2020-12-22\(Tue\)](daily-review/2020/dec/2020-12-22-tue.md)
     * [2020-12-21\(Mon\)](daily-review/2020/dec/2020-12-21-mon.md)
     * [2020-12-18 \(Fri\)](daily-review/2020/dec/2020-12-18-fri.md)
+* [Good article 아카이빙](daily-review/good-article.md)
 
