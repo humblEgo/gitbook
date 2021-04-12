@@ -1,4 +1,4 @@
-# DB Transaction
+# DB Transaction & Lock
 
 ## 트랜잭션\(Transaction\)?
 
