@@ -67,9 +67,11 @@
   * [Ruby](i-learned/programing-language/ruby/README.md)
     * [📔 퍼펙트 루비](i-learned/programing-language/ruby/undefined.md)
 * [DB](i-learned/sql/README.md)
+  * [📕 관계형 데이터베이스 실전입문](i-learned/sql/undefined.md)
   * [DB Transaction & Lock](i-learned/sql/db-transaction.md)
   * [📔 SQL 첫걸음](i-learned/sql/sql.md)
 * [Design Patterns](i-learned/design-patterns/README.md)
+  * [Observer pattern](i-learned/design-patterns/observer-pattern.md)
   * [Flyweight pattern](i-learned/design-patterns/flyweight-pattern.md)
   * [Singleton pattern](i-learned/design-patterns/singleton-pattern.md)
 
