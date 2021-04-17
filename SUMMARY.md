@@ -74,6 +74,7 @@
   * [Observer pattern](i-learned/design-patterns/observer-pattern.md)
   * [Flyweight pattern](i-learned/design-patterns/flyweight-pattern.md)
   * [Singleton pattern](i-learned/design-patterns/singleton-pattern.md)
+* [Regex](i-learned/regex.md)
 
 ## DAILY REVIEW
 
