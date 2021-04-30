@@ -4,9 +4,10 @@
 
 ## I LEARNED
 
-* [General](i-learned/general/README.md)
+* [Seminar](i-learned/general/README.md)
   * [TDD가 실패하는 이유 - by 이규원님](i-learned/general/tdd-by.md)
   * [대규모 트래픽 애플리케이션 성능 튜닝 노하우 다 알려 드림\|라인개발실록](i-learned/general/or.md)
+  * [결제 시스템의 SDK와 API 디자인](i-learned/general/sdk-api.md)
 * [Web](i-learned/web/README.md)
   * [SOP와 CORS](i-learned/web/sop-cors.md)
 * [Ruby On Rails](i-learned/ruby-on-rails/README.md)
