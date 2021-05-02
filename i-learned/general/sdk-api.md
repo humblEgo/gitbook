@@ -5,7 +5,7 @@ description: >-
   오픈 API의 첫 여정에 대해 공유합니다. - Slash21 by TOSS
 ---
 
-# 결제 시스템의 SDK와 API 디자인
+# 결제 시스템의 SDK와 API 디자인 - SLASH 21
 
 ### 가맹점에 API를 제공하기 위한 3대 원칙을 정했다.
 

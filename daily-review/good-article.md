@@ -43,14 +43,12 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">collaboration</td>
+      <td style="text-align:left"><a href="https://pitzcarraldo.medium.com/%EB%B2%88%EC%97%AD-%EC%9E%98-%EA%B0%80%EC%9A%94-%EC%8A%A4%ED%81%AC%EB%9F%BC-%EB%B0%98%EA%B0%80%EC%9B%8C%EC%9A%94-%EC%B9%B8%EB%B0%98-e27d1db15699">&#xC798; &#xAC00;&#xC694; &#xC2A4;&#xD06C;&#xB7FC;,&#xBC18;&#xAC00;&#xC6CC;&#xC694; &#xCE78;&#xBC18;</a>
+      </td>
+      <td style="text-align:left">&#xC2A4;&#xD50C;&#xB9B0;&#xD2B8; &amp;&#xC2A4;&#xD06C;&#xB7FC;&#xC758;
+        &#xB2E8;&#xC810;&#xC774; &#xB290;&#xAEF4;&#xC9C4;&#xB2E4;&#xBA74; &#xCE78;&#xBC18;&#xC744;
+        &#xACE0;&#xB824;&#xD558;&#xC790;.</td>
     </tr>
   </tbody>
 </table>
