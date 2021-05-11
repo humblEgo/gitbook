@@ -194,5 +194,5 @@
     - [2020-12-21\(Mon\)](daily-review/2020/dec/2020-12-21-mon.md)
     - [2020-12-18 \(Fri\)](daily-review/2020/dec/2020-12-18-fri.md)
   - [Nov](daily-review/2020/nov/README.md)
-    - [2020-11-30\(Mon\)](<daily-review/2020/dec/20201130(Mon).md>)
+    - [2020-11-30\(Mon\)](daily-review/2020/dec/20201130\(Mon\).md)
 - [Good article 아카이빙](daily-review/good-article.md)
