@@ -96,9 +96,10 @@
 
 * [2021](daily-review/2021/README.md)
   * [May](daily-review/2021/may/README.md)
-    * [2021-05-13\(Wed\)](daily-review/2021/may/2021-05-13-wed.md)
-    * [2021-05-12\(Tue\)](daily-review/2021/may/2021-05-12-tue.md)
-    * [2021-05-11\(Mon\)](daily-review/2021/may/2021-05-11-mon.md)
+    * [2020-05-13\(Thu\)](daily-review/2021/may/2020-05-13-thu.md)
+    * [2021-05-12\(Wed\)](daily-review/2021/may/2021-05-13-wed.md)
+    * [2021-05-11\(Tue\)](daily-review/2021/may/2021-05-12-tue.md)
+    * [2021-05-10\(Mon\)](daily-review/2021/may/2021-05-11-mon.md)
     * [2021-05-03\(Mon\)](daily-review/2021/may/2021-05-03-mon.md)
   * [April](daily-review/2021/april/README.md)
     * [2021-04-30\(Fri\)](daily-review/2021/april/2021-04-30-fri.md)
