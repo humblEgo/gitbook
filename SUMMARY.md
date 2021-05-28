@@ -51,6 +51,7 @@
   * [npx](i-learned/node.js-and-express/npx.md)
 * [Programing Language](i-learned/programing-language/README.md)
   * [Java](i-learned/programing-language/java/README.md)
+    * [invocation에 대해서](i-learned/programing-language/java/invocation.md)
     * [어노테이션](i-learned/programing-language/java/undefined.md)
     * [추상클래스 & 인터페이스](i-learned/programing-language/java/and.md)
     * [Package](i-learned/programing-language/java/package.md)
@@ -88,6 +89,7 @@
   * [클래스간 관계 간단 정리](i-learned/oop/undefined.md)
 * [Regex](i-learned/regex.md)
 * [General](i-learned/general-1/README.md)
+  * [그로스해킹 기초](i-learned/general-1/undefined-1.md)
   * [개발자에게 도메인 지식은 얼마나 중요할까?](i-learned/general-1/undefined.md)
   * [DTO 논쟁에 대하여](i-learned/general-1/dto.md)
   * [MSA란?](i-learned/general-1/msa.md)
@@ -96,6 +98,7 @@
 
 * [2021](daily-review/2021/README.md)
   * [May](daily-review/2021/may/README.md)
+    * [2021-05-27\(Thu\)](daily-review/2021/may/2021-05-27-thu.md)
     * [2021-05-26\(Wed\)](daily-review/2021/may/2021-05-26-wed.md)
     * [2021-05-25\(Tue\)](daily-review/2021/may/2021-05-25-tue.md)
     * [2021-05-24\(Mon\)](daily-review/2021/may/2021-05-24-mon.md)
