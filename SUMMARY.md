@@ -86,6 +86,8 @@
   * [Flyweight pattern](i-learned/design-patterns/flyweight-pattern.md)
   * [Singleton pattern](i-learned/design-patterns/singleton-pattern.md)
 * [OOP](i-learned/oop/README.md)
+  * [📔 오브젝트](i-learned/oop/undefined-1/README.md)
+    * [6장 메시지와 인터페이스](i-learned/oop/undefined-1/6.md)
   * [클래스간 관계 간단 정리](i-learned/oop/undefined.md)
 * [Regex](i-learned/regex.md)
 * [General](i-learned/general-1/README.md)
