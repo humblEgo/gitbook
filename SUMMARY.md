@@ -80,6 +80,8 @@
     * [Redis 개요](i-learned/sql/redis/redis.md)
   * [Index\(인덱스\)?](i-learned/sql/index.md)
   * [DB Transaction & Lock](i-learned/sql/db-transaction.md)
+  * [동시성 제어에 관하여](i-learned/sql/undefined-2.md)
+  * [Lock\(잠금\)이란?](i-learned/sql/lock.md)
   * [📕 관계형 데이터베이스 실전입문](i-learned/sql/undefined.md)
   * [📔 SQL 첫걸음](i-learned/sql/sql.md)
   * [📔 모두의 SQL](i-learned/sql/sql-1.md)
