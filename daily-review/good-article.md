@@ -6,6 +6,7 @@
       <th style="text-align:left">&#xD0A4;&#xC6CC;&#xB4DC;</th>
       <th style="text-align:left">&#xB9C1;</th>
       <th style="text-align:left">&#xC694;</th>
+      <th style="text-align:left">&#xC219;&#xC9C0;&#xC815;&#xB3C4;</th>
     </tr>
   </thead>
   <tbody>
@@ -14,6 +15,7 @@
       <td style="text-align:left"><a href="https://medium.com/dtevangelist/12-factors-%EB%9E%80-b39c7ef1ed30">12-Factors&#xB780;?</a>
       </td>
       <td style="text-align:left"></td>
+      <td style="text-align:left">1</td>
     </tr>
     <tr>
       <td style="text-align:left">test</td>
@@ -22,6 +24,8 @@
       <td style="text-align:left">&#xD750;&#xB984;&#xC81C;&#xC5B4; &#xCF54;&#xB4DC;&#xC640; &#xC2E4;&#xC81C;
         &#xBE44;&#xC988;&#xB2C8;&#xC2A4; &#xB85C;&#xC9C1;&#xC744; &#xBD84;&#xB9AC;&#xD574;&#xC11C;
         &#xD14C;&#xC2A4;&#xD2B8;&#xB97C; &#xC791;&#xC131;&#xD558;&#xC790;.</td>
+      <td
+      style="text-align:left">1</td>
     </tr>
     <tr>
       <td style="text-align:left">architecture</td>
@@ -41,6 +45,7 @@
         <p>&#xC7AC;&#xC0AC;&#xC6A9;&#xC131;&#xC744; &#xACE0;&#xB824;&#xD558;&#xC5EC;
           &#xC124;&#xACC4;&#xD558;&#xC790;.</p>
       </td>
+      <td style="text-align:left">1</td>
     </tr>
     <tr>
       <td style="text-align:left">collaboration</td>
@@ -49,7 +54,28 @@
       <td style="text-align:left">&#xC2A4;&#xD50C;&#xB9B0;&#xD2B8; &amp;&#xC2A4;&#xD06C;&#xB7FC;&#xC758;
         &#xB2E8;&#xC810;&#xC774; &#xB290;&#xAEF4;&#xC9C4;&#xB2E4;&#xBA74; &#xCE78;&#xBC18;&#xC744;
         &#xACE0;&#xB824;&#xD558;&#xC790;.</td>
+      <td style="text-align:left">1</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">architecture</td>
+      <td style="text-align:left"><a href="https://www.slideshare.net/Byungwook/4-61487454">&#xB300;&#xC6A9;&#xB7C9; &#xC544;&#xD0A4;&#xD14D;&#xD2B8; &#xC124;&#xACC4; &#xD328;&#xD134;</a>
+      </td>
+      <td style="text-align:left">
+        <p>&#xC544;&#xB798; &#xD328;&#xD134;&#xB4E4;&#xC774; &#xC788;&#xB2E4;.
+          <br
+          />&#xC11C;&#xBE44;&#xC2A4; &#xC9C0;&#xD5A5;&#xC801;</p>
+        <p>Redudant &amp; Resilience</p>
+        <p>&#xD30C;&#xD2F0;&#xC154;&#xB2DD;</p>
+        <p>Query Off Loading</p>
+        <p>&#xCE90;&#xC2F1;</p>
+        <p>CDN &amp; ADN</p>
+        <p>&#xB85C;&#xAE45;</p>
+        <p>&#xBE44;&#xB3D9;&#xAE30; &#xD328;&#xD134;</p>
+      </td>
+      <td style="text-align:left">1</td>
     </tr>
   </tbody>
 </table>
+
+
 

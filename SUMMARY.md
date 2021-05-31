@@ -76,6 +76,8 @@
   * [Ruby](i-learned/programing-language/ruby/README.md)
     * [📔 퍼펙트 루비](i-learned/programing-language/ruby/undefined.md)
 * [DB](i-learned/sql/README.md)
+  * [Redis](i-learned/sql/redis/README.md)
+    * [Redis 개요](i-learned/sql/redis/redis.md)
   * [Index\(인덱스\)?](i-learned/sql/index.md)
   * [DB Transaction & Lock](i-learned/sql/db-transaction.md)
   * [📕 관계형 데이터베이스 실전입문](i-learned/sql/undefined.md)
