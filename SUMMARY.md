@@ -103,6 +103,8 @@
 ## DAILY REVIEW
 
 * [2021](daily-review/2021/README.md)
+  * [June](daily-review/2021/june/README.md)
+    * [2021-06-01\(Tue\)](daily-review/2021/june/2021-06-01-tue.md)
   * [May](daily-review/2021/may/README.md)
     * [2021-05-31\(Mon\)](daily-review/2021/may/2021-05-31-mon.md)
     * [2021-05-29\(Sat\)](daily-review/2021/may/2021-05-29-sat.md)
