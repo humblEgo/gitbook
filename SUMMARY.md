@@ -96,6 +96,7 @@
   * [클래스간 관계 간단 정리](i-learned/oop/undefined.md)
 * [Regex](i-learned/regex.md)
 * [General](i-learned/general-1/README.md)
+  * [개발자 꿀팁](i-learned/general-1/undefined-2.md)
   * [그로스해킹 기초](i-learned/general-1/undefined-1.md)
   * [개발자에게 도메인 지식은 얼마나 중요할까?](i-learned/general-1/undefined.md)
   * [DTO 논쟁에 대하여](i-learned/general-1/dto.md)
