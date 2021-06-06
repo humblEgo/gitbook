@@ -105,6 +105,7 @@
 
 * [2021](daily-review/2021/README.md)
   * [June](daily-review/2021/june/README.md)
+    * [2021-06-05\(Sat\)](daily-review/2021/june/2021-06-05-sat.md)
     * [2021-06-04\(Fri\)](daily-review/2021/june/2021-06-04-fri.md)
     * [2021-06-03\(Thu\)](daily-review/2021/june/2021-06-03-thu.md)
     * [2021-06-02\(Wed\)](daily-review/2021/june/2021-06-02-wed.md)
