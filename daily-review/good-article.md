@@ -4,12 +4,27 @@
   <thead>
     <tr>
       <th style="text-align:left">&#xD0A4;&#xC6CC;&#xB4DC;</th>
-      <th style="text-align:left">&#xB9C1;</th>
-      <th style="text-align:left">&#xC694;</th>
+      <th style="text-align:left">&#xB9C1;&#xD06C;</th>
+      <th style="text-align:left">&#xC694;&#xC57D;</th>
       <th style="text-align:left">&#xC219;&#xC9C0;&#xC815;&#xB3C4;</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left">architecture</td>
+      <td style="text-align:left"><a href="https://gyrfalcon.tistory.com/entry/%EB%9E%8C%EB%8B%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-Lambda-Architecture">&#xB78C;&#xB2E4; &#xC544;&#xD0A4;&#xD14D;&#xCC98;(Lambda Architecture)</a>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>&#xC2E4;&#xC2DC;&#xAC04; &#xBD84;&#xC11D;&#xC744; &#xC9C0;&#xC6D0;&#xD558;&#xB294;
+            &#xBE45;&#xB370;&#xC774;&#xD130; &#xC544;&#xD0A4;&#xD14D;&#xCC98;</li>
+          <li>batch&#xB85C; &#xBBF8;&#xB9AC; &#xB9CC;&#xB4E0; &#xB370;&#xC774;&#xD130;&#xC640;
+            &#xC2E4;&#xC2DC;&#xAC04; &#xB370;&#xC774;&#xD130;&#xB97C; &#xD63C;&#xD569;&#xD574;&#xC11C;
+            &#xC0AC;&#xC6A9;&#xD558;&#xB294; &#xBC29;&#xC2DD;</li>
+        </ul>
+      </td>
+      <td style="text-align:left">1</td>
+    </tr>
     <tr>
       <td style="text-align:left">cloud</td>
       <td style="text-align:left"><a href="https://medium.com/dtevangelist/12-factors-%EB%9E%80-b39c7ef1ed30">12-Factors&#xB780;?</a>
