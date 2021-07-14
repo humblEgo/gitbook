@@ -83,6 +83,8 @@
   * [DB Transaction & Lock](i-learned/sql/db-transaction.md)
   * [동시성 제어에 관하여](i-learned/sql/undefined-2.md)
   * [Lock\(잠금\)이란?](i-learned/sql/lock.md)
+  * [Table lock vs Row lock](i-learned/sql/table-lock-vs-row-lock.md)
+  * [WHERE 1=1 구문에 대하여](i-learned/sql/where-1-1.md)
   * [📕 관계형 데이터베이스 실전입문](i-learned/sql/undefined.md)
   * [📔 SQL 첫걸음](i-learned/sql/sql.md)
   * [📔 모두의 SQL](i-learned/sql/sql-1.md)
@@ -109,6 +111,7 @@
 
 * [2021](daily-review/2021/README.md)
   * [July](daily-review/2021/july/README.md)
+    * [2021-07-14\(Wed\)](daily-review/2021/july/2021-07-14-wed.md)
     * [2021-07-13\(Tue\)](daily-review/2021/july/2021-07-13-tue.md)
     * [2021-07-12\(Mon\)](daily-review/2021/july/2021-07-12-mon.md)
   * [June](daily-review/2021/june/README.md)

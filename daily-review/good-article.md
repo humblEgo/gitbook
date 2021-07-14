@@ -11,6 +11,47 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align:left">DB</td>
+      <td style="text-align:left"><a href="https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/">Lock&#xC73C;&#xB85C; &#xC774;&#xD574;&#xD558;&#xB294; Transaction&#xC758; Isolation Level</a>
+      </td>
+      <td style="text-align:left">
+        <p>MySQL&#xC758; &#xB3D9;&#xC791;&#xC6D0;&#xB9AC;&#xAE4C;&#xC9C0; &#xC605;&#xBCFC;
+          &#xC218; &#xC788;&#xB294; &#xC88B;&#xC740; &#xAE00;!</p>
+        <ul>
+          <li>InnoDB &#xC5D4;&#xC9C4;&#xC740; &#xAC01; &#xCFFC;&#xB9AC;&#xB97C; &#xC2E4;&#xD589;&#xD560;
+            &#xB54C;&#xB9C8;&#xB2E4; &#xC2E4;&#xD589;&#xD55C; &#xCFFC;&#xB9AC;&#xC758;
+            log&#xB97C; &#xCC28;&#xACE1;&#xCC28;&#xACE1; &#xC800;&#xC7A5;&#xD55C;&#xB2E4;.
+            &#xADF8;&#xB9AC;&#xACE0; &#xB098;&#xC911;&#xC5D0; consistent read&#xB97C;
+            &#xD560; &#xB54C; &#xC774; log&#xB97C; &#xD1B5;&#xD574; &#xD2B9;&#xC815;
+            &#xC2DC;&#xC810;&#xC758; DB snapshot&#xC744; &#xBCF5;&#xAD6C;&#xD558;&#xC5EC;
+            &#xAC00;&#xC838;&#xC628;&#xB2E4;.</li>
+        </ul>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">DB</td>
+      <td style="text-align:left"><a href="https://jupiny.com/2018/11/30/mysql-transaction-isolation-levels/">MySQL&#xC758; Transaction Isolation Levels</a>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>MySQL&#xC5D0;&#xC11C;&#xB294; <code>REPEATABLE READ</code>&#xC640; <code>READ COMMITTED</code> &#xB808;&#xBCA8;
+            &#xACA9;&#xB9AC; &#xC218;&#xC900;&#xC5D0;&#xC11C; <code>SELECT</code> &#xCFFC;&#xB9AC;&#xB85C;
+            &#xB370;&#xC774;&#xD130;&#xB97C; &#xC77D;&#xC5B4;&#xC62C; &#xB54C;, &#xD14C;&#xC774;&#xBE14;&#xC5D0;
+            lock&#xC744; &#xAC78;&#xC9C0; &#xC54A;&#xACE0;, &#xD574;&#xB2F9; &#xC2DC;&#xC810;&#xC758;
+            &#xB370;&#xC774;&#xD130; &#xC0C1;&#xD0DC;&#xB97C; &#xC758;&#xBBF8;&#xD558;&#xB294;
+            snapshot&#xC744; &#xAD6C;&#xCD95;&#xD558;&#xC5EC; &#xB370;&#xC774;&#xD130;&#xB97C;
+            &#xAC00;&#xC838;&#xC628;&#xB2E4;.
+            <ul>
+              <li>&#xB54C;&#xBB38;&#xC5D0; <code>REPEATABLE READ</code>&#xC5D0;&#xC11C; <code>phantom read</code>&#xB3C4;
+                &#xBC1C;&#xC0DD;&#xD558;&#xC9C0; &#xC54A;&#xB294;&#xB2E4;.</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+      <td style="text-align:left">1</td>
+    </tr>
+    <tr>
       <td style="text-align:left">architecture</td>
       <td style="text-align:left"><a href="https://gyrfalcon.tistory.com/entry/%EB%9E%8C%EB%8B%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-Lambda-Architecture">&#xB78C;&#xB2E4; &#xC544;&#xD0A4;&#xD14D;&#xCC98;(Lambda Architecture)</a>
       </td>

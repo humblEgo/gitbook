@@ -20,7 +20,8 @@ description: 동시성 제어
 
 ### Phantom Read
 
-* 기존 데이터는 동일한데 새로 추가된 값에 의해 데이터 값이 변경되는 현상
+* 기존 데이터는 동일한데 새로 추가된 값에 의해 데이터 값이 변경되는 현상.
+  * 이미 존재하는 데이터의 변경, 삭제는 불가하지만 데이터 추가는 가능할 때 생기는 현상이다.
 
 ### Cascading Rollback\(연쇄 복귀\) or 회복 불능\(Unrecoverability\)
 
@@ -62,4 +63,6 @@ description: 동시성 제어
 * [https://centbin-dev.tistory.com/40](https://centbin-dev.tistory.com/40)
 * [https://sabarada.tistory.com/122?category=822063](https://sabarada.tistory.com/122?category=822063)
 * [https://www.youtube.com/watch?v=w6sFR3ZM64c](https://www.youtube.com/watch?v=w6sFR3ZM64c)
+
+
 
