@@ -47,15 +47,56 @@ end
 
 Table lock은 전체 테이블에 대한 데이터 변경이 있을 경우 사용한다. 테이블을 제어하는 DDL 구문을 사용할 때 Lock이 걸린다고 하여 DDL Lock이라고도 한다.
 
-운영 중인 테이블을 복제\(CREATE SELECT\)하거나 다른 테이블로 옮길 경우\(INSERT SELECT\) Transaction Isolation Level을 READ COMMITTED 변경하고 작업하기를 권장합니다.  
-  
-그렇지 않으면 관련된 TABLE은 LOCK이 걸리고, 관련 Query들이 대기 상태로 빠지면서 시스템 장애가 발생할지도 모릅니다.
+운영 중인 테이블을 복제\(CREATE SELECT\)하거나 다른 테이블로 옮길 경우\(INSERT SELECT\) **Transaction Isolation Level을 READ COMMITTED 변경하고 작업하기를 권장한다.**
 
+* 그렇지 않으면 관련된 Table은 Exclusive Lock이 걸리고, 관련 Query들이 대기 상태로 빠지면서 시스템 장애가 발생할지도 모르기 때문.
 
+### Row locks
 
+#### 사용방
 
+`FOR UPDATE` 를 붙여주면 Exclusive lock을 건다. 이 때 MySQL은 Row 전체에 lock을 거는 것이 아니라 인덱스에 건다고 하니 참고.
 
+```sql
+-- MySQL
+SELECT * FROM table_name WHERE id=10 FOR UPDATE;
+```
 
+lock 모드를 SHARE MODE로 걸 수도 있다.
+
+```sql
+-- MySQL
+SELECT * FROM table_name WHERE id=10 LOCK IN SHARE MODE
+```
+
+ActiveReocrd에서는 `lock` 구문이나 `with_lock` 구문을 이용하면, 위 `FOR UPDATE` SQL 구문을 생성해준다.
+
+```ruby
+# lock
+user = User.lock.find_by(id: params[:id])
+user.reward = user.reward + params[:reward].to_i
+user.save!
+
+# with_lock
+user = User.find_by(id: params[:id])
+user.with_lock do
+  user.reward = user.reward + params[:reward].to_i
+  user.save!
+end
+```
+
+#### 사용 시나리오
+
+특정 user의 reward 컬럼 값을 100만큼 증가시키는 API가 있다고 하자.  그리고 `user.reward`가 원래 0원인 상태에서 200원이 되도록 하기 위해 이 API를 동시에 2차례 호출한다고 생각해보자. 그리고 이 API 호출을 각각 1번 API 호출, 2번 API 호출로 명명해보겠다.
+
+만약 이 API에 lock 처리가 되어있지 않은 상태라면, 이 1번 호출, 2번 호출이 동시에 진행되었을 때 문제가 생길 수 있다.
+
+* 1번 호출과 2번 호출에서 user 값을 read해올 때, 아직 update가 되기 전의 값을 read 해올 수 있기 때문.
+* 구체적으로는 `user.reward`를 0원으로 불러오고, 결과적으로 두 요청 모두 `user.reward` 값을 0원에서 100원으로 증가시킨 뒤 최종적으로 100원이 된 상태에서 `user.save` 를 호출하게 되어, 0원에서 200원이 되는 것이 아니라 0원에서 100원이 될 수 있다.
+
+대신 Exclusive lock 처리를 하면, 1번 호출, 2번 호출이 동시에 진행되더라도 문제를 방지할 수 있다.
+
+* 1번 호출과 2번 호출에서 user 값을 read해올 때, 다른 호출에서 lock을 들고 있으면, lock이 풀릴 때까지 기다렸다가 값을 read해오기 때문에, 순차적으로 reward 값을 증가시킬 수 있기 때문이다.
 
 ## 참고
 
@@ -69,6 +110,7 @@ Table lock은 전체 테이블에 대한 데이터 변경이 있을 경우 사�
 * [https://dev.mysql.com/doc/refman/8.0/en/lock-tables.html](https://dev.mysql.com/doc/refman/8.0/en/lock-tables.html)
 * [http://labs.brandi.co.kr/2019/06/19/hansj.html](http://labs.brandi.co.kr/2019/06/19/hansj.html)
 * [https://www.javatpoint.com/mysql-table-locking](https://www.javatpoint.com/mysql-table-locking)
+* [https://xpertdeveloper.com/row-locking-with-mysql/](https://xpertdeveloper.com/row-locking-with-mysql/)
 
 
 

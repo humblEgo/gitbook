@@ -112,6 +112,7 @@
 
 * [2021](daily-review/2021/README.md)
   * [July](daily-review/2021/july/README.md)
+    * [2021-07-16\(Fri\)](daily-review/2021/july/2021-07-16-fri.md)
     * [2021-07-15\(Thu\)](daily-review/2021/july/2021-07-15-thu.md)
     * [2021-07-14\(Wed\)](daily-review/2021/july/2021-07-14-wed.md)
     * [2021-07-13\(Tue\)](daily-review/2021/july/2021-07-13-tue.md)
