@@ -12,6 +12,15 @@
   <tbody>
     <tr>
       <td style="text-align:left">DB</td>
+      <td style="text-align:left"><a href="https://transferhwang.tistory.com/513">[MySQL] &#xACA9;&#xB9AC; &#xC218;&#xC900;</a>
+      </td>
+      <td style="text-align:left">&#xB370;&#xC774;&#xD130; &#xBD80;&#xC815;&#xD569; &#xBB38;&#xC81C;&#xB97C;
+        &#xC608;&#xC2DC;&#xC640; &#xD568;&#xAED8; &#xD655;&#xC778; &#xAC00;&#xB2A5;</td>
+      <td
+      style="text-align:left">1</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">DB</td>
       <td style="text-align:left"><a href="https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/">Lock&#xC73C;&#xB85C; &#xC774;&#xD574;&#xD558;&#xB294; Transaction&#xC758; Isolation Level</a>
       </td>
       <td style="text-align:left">
@@ -27,7 +36,7 @@
             &#xAC00;&#xC838;&#xC628;&#xB2E4;.</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">1</td>
     </tr>
     <tr>
       <td style="text-align:left">DB</td>
