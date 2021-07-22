@@ -4,6 +4,12 @@
 
 ## I LEARNED
 
+* [General](i-learned/general-1/README.md)
+  * [개발자 꿀팁](i-learned/general-1/undefined-2.md)
+  * [그로스해킹 기초](i-learned/general-1/undefined-1.md)
+  * [개발자에게 도메인 지식은 얼마나 중요할까?](i-learned/general-1/undefined.md)
+  * [DTO 논쟁에 대하여](i-learned/general-1/dto.md)
+  * [MSA란?](i-learned/general-1/msa.md)
 * [Seminar](i-learned/general/README.md)
   * [테스트 커버리지 100% - SLASH 21](i-learned/general/100-slash-21.md)
   * [TDD가 실패하는 이유 - by 이규원님](i-learned/general/tdd-by.md)
@@ -86,6 +92,7 @@
   * [ActiveRecord lock vs with\_lock](i-learned/sql/activerecord-lock-vs-with_lock.md)
   * [Table lock vs Row lock](i-learned/sql/table-lock-vs-row-lock.md)
   * [WHERE 1=1 구문에 대하여](i-learned/sql/where-1-1.md)
+  * [COUNT\(\*\) vs COUNT\(indexed column\)](i-learned/sql/count-vs-count-indexed-column.md)
   * [📕 관계형 데이터베이스 실전입문](i-learned/sql/undefined.md)
   * [📔 SQL 첫걸음](i-learned/sql/sql.md)
   * [📔 모두의 SQL](i-learned/sql/sql-1.md)
@@ -101,17 +108,15 @@
 * [Collaboration](i-learned/collaboration/README.md)
   * [Git](i-learned/collaboration/git.md)
   * [Sourcetree](i-learned/collaboration/sourcetree.md)
-* [General](i-learned/general-1/README.md)
-  * [개발자 꿀팁](i-learned/general-1/undefined-2.md)
-  * [그로스해킹 기초](i-learned/general-1/undefined-1.md)
-  * [개발자에게 도메인 지식은 얼마나 중요할까?](i-learned/general-1/undefined.md)
-  * [DTO 논쟁에 대하여](i-learned/general-1/dto.md)
-  * [MSA란?](i-learned/general-1/msa.md)
 
 ## DAILY REVIEW
 
 * [2021](daily-review/2021/README.md)
   * [July](daily-review/2021/july/README.md)
+    * [2021-07-22\(Thu\)](daily-review/2021/july/2021-07-22-thu.md)
+    * [2021-07-21\(Wed\)](daily-review/2021/july/2021-07-21-wed.md)
+    * [2021-07-20\(Tue\)](daily-review/2021/july/2021-07-20-tue.md)
+    * [2021-07-19\(Mon\)](daily-review/2021/july/2021-07-19-mon.md)
     * [2021-07-15\(Thu\)](daily-review/2021/july/2021-07-15-thu.md)
     * [2021-07-14\(Wed\)](daily-review/2021/july/2021-07-14-wed.md)
     * [2021-07-13\(Tue\)](daily-review/2021/july/2021-07-13-tue.md)
