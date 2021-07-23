@@ -20,6 +20,7 @@
 * [Spring & OOP](i-learned/spring-and-oop/README.md)
   * [DTO vs VO](i-learned/spring-and-oop/dto-vs-vo.md)
 * [Ruby On Rails](i-learned/ruby-on-rails/README.md)
+  * [Rails lib 디렉토리에 대하여](i-learned/ruby-on-rails/rails-lib.md)
   * [Rails의 concerns란?](i-learned/ruby-on-rails/rails-concerns.md)
   * [Rails에서의 GC 작동원리](i-learned/ruby-on-rails/rails-gc.md)
   * [Eager loading vs Lazy loading](i-learned/ruby-on-rails/eager-loading-vs-lazy-loading.md)
